@@ -1,0 +1,5 @@
+com\example\spring_mongo_aggriate\model\Student.class
+com\example\spring_mongo_curd\SpringMongoCurdApplication.class
+com\example\spring_mongo_curd\Controller\HelloWorldController.class
+com\example\spring_mongo_curd\repository\StudentRepository.class
+com\example\spring_mongo_curd\Controller\StudentController.class
